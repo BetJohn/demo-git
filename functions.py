@@ -13,3 +13,7 @@ def maxim(a, b):
 
 def f(a, b):
     print(a+b)
+
+
+def g(a):
+    print(a**2)
